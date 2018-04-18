@@ -1,2 +1,2 @@
 # Core
-Projeto re
+Projeto estruturado para acessar base de dados
